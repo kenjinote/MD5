@@ -8,11 +8,10 @@
 name='Microsoft.Windows.Common-Controls' version='6.0.0.0' \
 processorArchitecture='*' publicKeyToken='6595b64144ccf1df' language='*'\"")
 
-#pragma comment(linker,"/opt:nowin98")
-#include<windows.h>
-#include<Windowsx.h>
-#include<commctrl.h>
-#include<shlwapi.h>
+#include <windows.h>
+#include <Windowsx.h>
+#include <commctrl.h>
+#include <shlwapi.h>
 
 #define IDC_LIST 201
 #define ID_DELETE 202
