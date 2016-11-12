@@ -187,3 +187,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/MD5.VC.db
+/MD5.VC.VC.opendb
